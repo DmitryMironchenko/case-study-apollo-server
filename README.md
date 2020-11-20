@@ -1,4 +1,4 @@
-# case-stydy-apollo-server
+# case-study-apollo-server
 UpsilonIt Art Project Mocked Backend
 
 To install dependencies run the following command:
